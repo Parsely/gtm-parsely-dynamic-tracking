@@ -1,0 +1,5 @@
+documentation: "https://docs.parse.ly/google-tag-manager/"
+homepage: "https://www.parse.ly"
+versions:
+  - sha: be4a6f48d09889420e511b564878990fa3382c0c
+    changeNotes: Initial release.
